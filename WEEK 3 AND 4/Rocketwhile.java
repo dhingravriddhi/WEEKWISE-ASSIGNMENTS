@@ -13,5 +13,6 @@ public class Rocketwhile{
         }
 
         System.out.println("Rocket Launched!");
+        sc.close();
     }
 }

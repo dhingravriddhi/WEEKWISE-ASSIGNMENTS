@@ -17,5 +17,6 @@ public class Sumuntilzero{
         }
 
         System.out.println("Total sum = " + total);
+        sc.close();
     }
 }

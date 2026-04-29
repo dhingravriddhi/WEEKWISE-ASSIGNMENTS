@@ -11,5 +11,6 @@ public class Temp{
 
         System.out.println("The " + fahrenheit + " fahrenheit is " 
                 + celsiusResult + " celsius");
+                sc.close();
     }
 }

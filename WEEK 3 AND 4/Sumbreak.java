@@ -18,5 +18,6 @@ public class Sumbreak{
         }
 
         System.out.println("Total sum = " + total);
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class Rocketfor {
         }
 
         System.out.println("Rocket Launched!");
+        sc.close();
     }
 }
